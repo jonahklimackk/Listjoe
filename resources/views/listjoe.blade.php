@@ -18,7 +18,9 @@
 
 <body>
     <center>
-        <h1> Listjoe Recommends... </h1>
+        <img src="/img/listjoe.jpg"></img>
+        <br>
+        <h1> Listjoe Recommends! </h1>
 
         <br><br>
         <h2>
