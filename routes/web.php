@@ -8,3 +8,6 @@ Route::get('/', function () {
 
 
 
+Route::get('/go', function () {
+    return redirect()->away('https://hop.clickbank.net/?affiliate=l1STJOE&vendor=socialsrep&pid=joblandingpage&ifso=304paidtotype');
+});
