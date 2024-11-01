@@ -22,7 +22,7 @@
 
 <br><br>
 <h2>
-    <a href="">
+    <a href="https://hop.clickbank.net/?affiliate=l1STJOE&vendor=socialsrep&pid=joblandingpage&ifso=304paidtotype">
     Earn $20/day or more <br>
 doing  <br><i>one
 simple thing... </i></h2>
